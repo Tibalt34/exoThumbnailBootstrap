@@ -1,0 +1,29 @@
+/* partie sections téléphone, ordinateur et tablette */
+
+.titresections{
+text-align: center;
+font-size: 40px;
+}
+
+h3{
+  text-align: center;
+  font-size:30px;
+}
+
+.taillePhoto{
+  width: 300px;
+  padding-top:5%;
+}
+
+p{
+  font-size:17px;
+  text-align: justify;
+}
+.article{
+  padding-top:5%;
+}
+
+.boot{
+  text-align: right;
+  font-size:14px;
+}
